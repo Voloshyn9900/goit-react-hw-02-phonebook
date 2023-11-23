@@ -35,4 +35,13 @@ li {
 ul {
   margin-left: 0;
   padding-left: 0;
-}`;
+}
+
+input{
+  display: block;
+}
+
+button{
+  display: block;
+}
+`;
