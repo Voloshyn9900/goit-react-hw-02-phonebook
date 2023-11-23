@@ -3,8 +3,8 @@ import { Section, Container, PhoneBook, Title } from './App.styled';
 import { Form } from './Form/Form';
 import { ContactList } from './ContactList/ContactList';
 import { Filter } from './Filter/Filter';
-import { Formik } from 'formik';
-import * as Yup from 'yup';
+// import { Formik } from 'formik';
+// import * as Yup from 'yup';
 
 export class App extends Component {
   state = {
